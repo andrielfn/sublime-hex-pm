@@ -1,0 +1,11 @@
+[
+  { "caption": "Hex.pm: Show info", "command": "hex_pm_show_info" },
+  {
+    "args": {
+      "base_file": "${packages}/User/HexPmInfo/HexPmInfo.sublime-settings",
+      "default": "// Hex.pm Info - User\n{\n\t$0\n}\n"
+    },
+    "caption": "Hex.pm: Settings",
+    "command": "edit_settings"
+  }
+]
